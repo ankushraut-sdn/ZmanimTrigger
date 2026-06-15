@@ -1,0 +1,58 @@
+# --- Node.js / Server ---
+node_modules/
+jspm_packages/
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+
+# Logs and Runtime data
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test / Coverage
+coverage/
+.nyc_output/
+
+# --- Arduino / ESP32 Firmware ---
+# Build outputs
+build/
+bin/
+out/
+*.hex
+*.elf
+*.bin
+
+# PlatformIO folders
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# --- IDEs and Editors ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*~
+
+# --- OS Metadata ---
+.DS_Store
+Thumbs.db
