@@ -3,9 +3,7 @@
 ## 1. Project Overview
 
 **Project Name:** ZmanimTrigger
-**Project Type:** IoT (Backend service + embedded firmware)
 **Version:** 1.0.0 (backend, from `server/package.json`)
-**Status:** Development
 
 ### Description
 
